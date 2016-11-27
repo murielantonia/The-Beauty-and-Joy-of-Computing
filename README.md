@@ -1,8 +1,17 @@
 # The-Beauty-and-Joy-of-Computing
 
+[Erste Informatikstunde](#eins)
+[Zweite Informatikstunde](#zwei)
+[Dritte Informatikstunde](#drei)
+[Vierte Informatikstunde](#vier)
+[Fünfte Informatikstunde](#fünf)
+[Sechste Informatikstunde](#sechs)
+[Siebte Informatikstunde](#sieben)
+[Achte Informatikstunde](#acht)
 
 
-##Erste Informatikstunde                                                              15.09.2016
+
+##Erste Informatikstunde<a name="eins"></a>                                                              15.09.2016
 
 ###Bekanntmachung mit Snap!
 
@@ -37,7 +46,7 @@ nächste Stunde, in der wir mit einem Tutorial von „The Beauty and Joy of
 Computing“ starten werden.
 
 
-##Zweite Informatikstunde                                                              19.09.2016
+##Zweite Informatikstunde<a name="zwei"></a>                                                              19.09.2016
 
 ###Programming Lab 2: Sprite Drawing and Interaction
 
@@ -87,7 +96,7 @@ haben schon einige Schritte gelernt, die uns später beim weiteren Programmieren
 helfen werden. 
 
 
-##Dritte Informatikstunde                                                              26.09.2016
+##Dritte Informatikstunde<a name="drei"></a>                                                              26.09.2016
 
 ###Unit 1: Lab 2: Sprite Drawing and Interaction
 
@@ -124,7 +133,7 @@ verschiedene Größen, Dicken und Farben. Dazu wurden die Blocks „set pen colo
 ![Screenshot11](Bilder/Screenshot11.png "Versuche Kreis")
 
 
-##Vierte Informatikstunde                                                              29.09.2016
+##Vierte Informatikstunde<a name="vier"></a>                                                              29.09.2016
 
 ###Unit 1 Lab 2: Sprite Drawing and Interaction             
 
@@ -207,7 +216,7 @@ fertige Produkt zu sehen.
 ![Screenshot17](Bilder/Screenshot17.png "Endprodukt Unterhaltung der Sprites")
 
 
-##Fünfte Informatikstunde                                                              06.10.16
+##Fünfte Informatikstunde<a name="fünf"></a>                                                              06.10.16
 
 ###Unit 1 Lab 3: Building Your Own Blocks 
 
@@ -279,7 +288,7 @@ sollte türkis sein und die Stiftdicke war auf drei definiert. Es entstand nun
 ein Dreieck.
 
 
-##Sechste Informatikstunde                                                              10.10.2016 
+##Sechste Informatikstunde<a name="sechs"></a>                                                              10.10.2016 
 
 ###Unit 1: Lab 3: Building Your Own Block
 
@@ -316,7 +325,7 @@ unser Endergebnis aus:
 ![Screenshot25](Bilder/Screenshot25.png "Häuserreihe")
 
 
-##Siebte Informatikstunde                                                             13.10.2016
+##Siebte Informatikstunde<a name="sieben"></a>                                                             13.10.2016
 
 ###Unit 1 Lab 3: Building Your Own Blocks                      
 
@@ -398,7 +407,7 @@ sich um die doppelte Kantenlänge und dreht sich nach jeder Bewegung um 30° in
 den Uhrzeigersinn.
 
 
-##Achte Informatikstunde                                                              31.10.2016
+##Achte Informatikstunde<a name="acht"></a>                                                              31.10.2016
 
 ###Eigener Versuch etwas zu programmieren 
 
