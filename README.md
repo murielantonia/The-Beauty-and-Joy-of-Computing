@@ -473,7 +473,7 @@ Beispiel umbenannt werden oder aber auch verändert werden.
 
 
  
-Nach dem Studieren dieser Tutorials freuen wir uns nun sehr darauf, ein eigenes Projekt zu erstellen und zu programmierne;) 
+*Nach dem Studieren dieser Tutorials freuen wir uns nun sehr darauf, ein eigenes Projekt zu erstellen und zu programmierne;)*
  
 
  
