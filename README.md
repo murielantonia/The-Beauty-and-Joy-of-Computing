@@ -91,7 +91,7 @@ helfen werden.
 
 
 
-##Dritte Informatikstunde                                                                      26.09.2016
+##Dritte Informatikstunde                                                              26.09.2016
 
 ###Unit 1: Lab 2: Sprite Drawing and Interaction
 
@@ -130,7 +130,7 @@ verschiedene Größen, Dicken und Farben. Dazu wurden die Blocks „set pen colo
 
 
 
-##Vierte Informatikstunde                                                                                 29.09.2016
+##Vierte Informatikstunde                                                              29.09.2016
 
 ###Unit 1 Lab 2: Sprite Drawing and Interaction             
 
@@ -216,7 +216,7 @@ fertige Produkt zu sehen.
 
 
 
-##Fünfte Informatikstunde                                                                                 06.10.16
+##Fünfte Informatikstunde                                                              06.10.16
 
 ###Unit 1 Lab 3: Building Your Own Blocks 
 
@@ -289,7 +289,7 @@ ein Dreieck.
 
 
 
-##Sechste Informatikstunde                                                                   10.10.2016 
+##Sechste Informatikstunde                                                              10.10.2016 
 
 ###Unit 1: Lab 3: Building Your Own Block
 
