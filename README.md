@@ -2,7 +2,7 @@
 
 
 
-##Erste Informatik Stunde      15.09.2016
+##Erste Informatikstunde                                                              15.09.2016
 
 ###Bekanntmachung mit Snap!
 
