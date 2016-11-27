@@ -30,21 +30,16 @@ Schüler, zur Zielgruppe des Tutorials, was unsere Entscheidung zusätzlich
 beeinflusste. Überzeugt hat uns zudem das Argument des Programmtitels, welcher
 Schönheit und Freude des Programmierens verspricht.
 
-*Bild*
+![Screenshot01](Bilder/Screenshot01.png "Snap!")
 
 Wir freuen uns nun sehr auf die
 nächste Stunde, in der wir mit einem Tutorial von „The Beauty and Joy of
 Computing“ starten werden.
 
 
-
 ##Zweite Informatikstunde                                                              19.09.2016
 
 ###Programming Lab 2: Sprite Drawing and Interaction
-
- 
-
- 
 
 Drawing and Motion:
 
@@ -52,43 +47,42 @@ Wir haben zuerst die vier verschiedenen Blöcke (repeat,
 move, turn, pen down) wie beschrieben zusammengesetzt und die passenden Zahlen
 eingegeben. Es entstand ein Quadrat.
 
-*Bild*
+![Screenshot02](Bilder/Screenshot02.png "Erste Blöcke")
 
 Nun veränderten wir
 die „move“ Zahl. Bei unserem Beispiel wurden die Quadrate (wie im folgenden
 Bild zu sehen) größer.
 
-*Bild*
+![Screenshot03](Bilder/Screenshot03.png "Programm Quadrate")
 
 Danach wurden zudem auch die Zahlen des „repeat“ und „turn“
 Blocks verändert.
 
-*Bild*
+![Screenshot04](Bilder/Screenshot04.png "Repeat und Turn im Block")
 
 Dabei probierten wir einiges aus…
 
-*Bild*
+![Screenshot05](Bilder/Screenshot05.png "Probe")
 
 Schließlich bestand unsere Aufgabe darin, ein Dreieck zu
 erstellen. Dies gelang uns durch eine Drehung von 120 Grad.
 
-*Bild*
+![Screenshot06](Bilder/Screenshot06.png "Dreieck")
 
 Durch einen weiteren Block „set pen size to“ konnten wir
 dann die Dicke der erstellten Linien verstellen.
 
-*Bild*
+![Screenshot07](Bilder/Screenshot07.png "Stiftdicke")
 
 Schließlich lernten wir, wie wir unseren Pfeil wiederfinden,
 wenn er mal aus dem Feld verschwinden sollte. Wir nutzten den „go to x:  y:“ Block dafür. Im folgenden Bild sieht man
 die Fortbewegung des Feils anhand der dicken Linien.
 
-*Bild*
+![Screenshot08](Bilder/Screenshot08.png "Koordinaten")
 
 Allgemein sind wir zufrieden mit der heutigen Stunde. Wir
 haben schon einige Schritte gelernt, die uns später beim weiteren Programmieren
 helfen werden. 
-
 
 
 ##Dritte Informatikstunde                                                              26.09.2016
@@ -101,8 +95,7 @@ Heute
 haben wir die verinnerlichten Inhalte der letzten Stunde noch einmal versucht
 selbst anzuwenden. 
 
-Zuerst
-programmierten wir den Sprite einige Quadrate in blau und der Stiftdicke 1 zu
+Zuerst programmierten wir den Sprite einige Quadrate in blau und der Stiftdicke 1 zu
 zeichnen. Mit den Blöcken „pen down“ , „set pen colour to“ und „set pen size
 to“ legten wir dieses aussehen fest. Für das zeichnen wendeten wir die bereits
 gelernten „move“ und „turn“ Blöcke an. Durch unterschiedliche Längen der
@@ -118,7 +111,7 @@ vorhandenen Quadrate.
 Unsere Versuche sieht man im folgenden Bild
 zusammengefasst: 
 
-*Bild*
+![Screenshot09](Bilder/Screenshot09.png "Quadrat versuche")
  
 Nachdem
 wir die Aufgabe des Tutorials gemeistert hatten, haben wir noch weitere eigene Versuche
@@ -126,8 +119,7 @@ gestartet. Wir ließen den Sprite verschiedene Kreise zeichnen. Diese hatten
 verschiedene Größen, Dicken und Farben. Dazu wurden die Blocks „set pen colour to“ und
 „set pen size to“ verändert. 
 
-*Bild*
-
+![Screenshot10](Bilder/Screenshot10.png "Versuche Kreis")
 
 
 ##Vierte Informatikstunde                                                              29.09.2016
@@ -140,7 +132,7 @@ In der nächsten Lektion sollten
 wir einen „Sprite“ so programmieren, dass er der Maus folgt, wenn wir sie über
 den Bildschirm bewegen.
 
-*Bild*
+![Screenshot11](Bilder/Screenshot11.png "Sprite folgt Maus")
 
 Dazu wird ein Block eingesetzt,
 welcher dem Sprite befiehlt, den Koordinaten der Maus zu folgen. Damit dies bei
@@ -151,7 +143,7 @@ Block ausgeführt, der das Programm nur startet, wenn man die grüne Fahne
 klickt. Dieser „hat“-Block impliziert nicht, was das Programm tun soll, sondern
 welches „event“ das Programm auslöst.
 
-*Bild*
+![Screenshot12](Bilder/Screenshot12.png "Sprite folgt Maus Programm")
 
 Nun wurde ein zweiter Sprite hinzugefügt, dessen Pfeilspitze
 immer in die Richtung des ersten Sprites zeigen soll. Auch dieser Programmteil
@@ -169,18 +161,16 @@ also immer in Richtung des Sprite.  So
 wird aus unserem Programm eine Art Fangspiel, das endet, sobald die beiden
 Sprites sich berühren. 
 
-*Bild*
+![Screenshot13](Bilder/Screenshot13.png "Repeat until")
 
 Übersetzung: Sobald die grüne Fahne geklickt wurde, zeigt
 Sprite2 solange in Richtung des Sprite, bis beide miteinander in Berührung kommen.
 
-*Bild*
+![Screenshot14](Bilder/Screenshot14.png "Repeat until Berührung")
 
 Übersetzung: Sobald sie grüne Fahne geklickt wurde, zeigt
 Sprite2 in Richtung des Sprite und bewegt sich je einen Schritt auf diesen zu,
 bis beide miteinander in Berührung kommen. 
-
-*Bild*
 
 Um das Spiel ansprechender zu
 gestalten, wollten wir ein Gespräch zwischen den beiden Sprites aufzeigen.
@@ -190,7 +180,7 @@ zuvor festgelegt haben. Der Unterschied besteht darin, dass eine Sprechblase
 oder eine Denkblase erscheinen kann. Damit nicht beide Sprech- bzw. Denkblasen
 gleichzeitig erscheinen, legen wir eine Reihenfolge im Skript des Sprite2 fest.
 
-*Bild*
+![Screenshot15](Bilder/Screenshot15.png "Gespräch zwischen Sprites")
 
 Übersetzung: Sobald sie grüne
 Fahne geklickt wurde, zeigt Sprite2 in Richtung des Sprite und bewegt sich je
@@ -212,8 +202,7 @@ halbe Größe des Originals.
 Auf dem Folgenden Bild ist das
 fertige Produkt zu sehen.
 
-*Bild*
-
+![Screenshot16](Bilder/Screenshot16.png "Endprodukt Unterhaltung der Sprites")
 
 
 ##Fünfte Informatikstunde                                                              06.10.16
@@ -226,7 +215,7 @@ eigenen Blöcken befasst. Indem wir mehrere Aktionen im Skript unter einem
 Oberbegriff zusammenfassen, abstrahieren wir das Programm und machen es
 übersichtlicher. Diese Arbeit passiert im sogennanten „Block Editor“.
 
-*Bild*
+![Screenshot17](Bilder/Screenshot17.png "Block Editor")
 
 Das hier ist ein Beispiel für
 einen der Blöcke, den wir erschaffen haben. Er fasst in sich das Skript, dass
@@ -262,7 +251,7 @@ Block erschaffen, der in Aktion ein Quadrat mit vorbestimmter Seitenlänge
 zeichnen kann. Viermal hintereinander bewegt er den Sprite  um 50 Schritte geradeaus, und dann um 90° im
 Uhrzeigersinn drehen, sodass ein Viereck entsteht. 
 
-*Bild*
+![Screenshot18](Bilder/Screenshot18.png "Quadrat")
 
 Auf diesem Screenshot sieht man, wie das Ergebnis der Blöcke
 „draw square“ und „draw big square“ aussieht, nachdem wir das jeweilige Skript
@@ -275,18 +264,17 @@ Kantenlänge 50 („triangle“) und eines mit der Kantenlänge 100 („big tria
 Anschließend haben wir noch Polygene
 erstellt.
 
-*Bild*
+![Screenshot19](Bilder/Screenshot19.png "Polygene")
 
 Nach den ersten Erfolgen veränderten
 wir die Farbe und Stiftdicke. 
 
-*Bild*
+![Screenshot20](Bilder/Screenshot20.png "Veränderte Stiftdicke und Farbe")
 
 Wir erstellten ein lila Polygen, mit der Stiftdicke fünf.
 Dieses hatte vier Seiten, es entstand also ein Viereck. Das zweite Polygen
 sollte türkis sein und die Stiftdicke war auf drei definiert. Es entstand nun
 ein Dreieck.
-
 
 
 ##Sechste Informatikstunde                                                              10.10.2016 
@@ -300,18 +288,18 @@ sollte ein Programm sein, das „square“ und „triangle“ so kombiniert, das
 Haus entsteht. Hier ist unser Vorgehen visuell dargestellt. Es handelt sich um
 einen Screenshot des Block Editors. 
 
-*Bild*
+![Screenshot21](Bilder/Screenshot21.png "Block Editor House")
 
 Der Sprite führt zunächst die Aktion „draw square“ und anschließend
 die Aktion „draw triangle“ aus, sodass am Ende ein Abbild eines Hauses
 entsteht, wie unten gezeigt. 
 
-*Bild*
+![Screenshot22](Bilder/Screenshot22.png "House")
 
 Wir verbesserten die Häuser
 noch durch unterschiedliche Farben.
 
-*Bild*
+![Screenshot23](Bilder/Screenshot23.png "Häuser in unterschiedlichen Farben")
 
 Nun wollten wir mehrere dieser
 Häuser aneinanderreihen, und erstellten auch dafür einen eigenen Block. Damit
@@ -323,8 +311,7 @@ fügten wir einen Maximalwert der X-Koordinate hinzu. In diesem Fall sollte das
 Ausführen des Skriptes enden, sobald X einen Wert von über 200 annimmt. So sah
 unser Endergebnis aus:
 
-*Bild*
-
+![Screenshot24](Bilder/Screenshot24.png "Häuserreihe")
 
 
 ##Siebte Informatikstunde                                                             13.10.2016
@@ -338,7 +325,7 @@ Erkenntnis und dem Wissen aus den vorherigen Kapiteln konnten wir eine quadratis
 Spirale vom Sprite zeichnen lassen, die für den Viewer im Interface sichtbar
 wird. 
 
-*Bild*
+![Screenshot25](Bilder/Screenshot25.png "For Block")
 
 Übersetzung: Beim Starten des Programmes wird dem Sprite,
 der hier als Stift dient, eine von uns ausgewählte Farbe zugeschrieben. Sobald
@@ -349,20 +336,18 @@ Vorgang wiederholt sich, bis die Länge 100 erreicht wird und eine quadratische
 Spirale sichtbar wird.  Die Zeichnung
 beginnt und endet bei den von uns definierten Längenwerten.
 
-*Bild*
+![Screenshot26](Bilder/Screenshot26.png "Verschiedene Muster mit For Block")
 
 Bei diesem Programm können wir
 jedoch nicht nur die Länge der Strecken, sondern auch den Winkel der Drehungen
-festlegen. Auf dem oben zu sehenden Screenshit haben wir mit verschiedenen
+festlegen. Auf dem oben zu sehenden Screenshot haben wir mit verschiedenen
 Stiftfarben, Innenwinkeln und Längenbereichen experimentiert, sodass am Ende
 ein graphisches Muster entstanden ist. 
 
-*Bild*
+![Screenshot27](Bilder/Screenshot27.png "Veränderungen")
 
 Hier sieht man, was passiert, wenn bei gleichem Winkel die
 Länge der Seitenkanten der quadratischen Spirale verändert werden. 
-
- 
 
 Nun wollten wir ein größeres Muster erschaffen, und dabei
 etwas Spaß und Farbe mit ins Spiel bringen. In den letzten Stunden haben uns
@@ -392,14 +377,14 @@ dadurch, dass wir die Größe des Sprites auf 30% reduziert hatten, reduzierte
 sich nun auch die Kantenlänge der äußeren Spirale um 30%. Deshalb war
 für uns folgende Grafik sichtbar:
 
-*Bild*
+![Screenshot28](Bilder/Screenshot28.png "Muster vom Einhorn")
 
 Doch nach Verständnis
 und Berichtigung dieser Fehler entstand schließlich folgende Grafik:
 
-*Bild*
+![Screenshot29](Bilder/Screenshot29.png "Muster von der Fledermaus")
 
-*Bild*
+![Screenshot30](Bilder/Screenshot30.png "Großes Muster vom Einhorn")
 
 Übersetzung: Nach Starten des Programmes wird der Sprite als
 „Stift“, dessen Farbe Türkis und Länge 3 definiert sind, auf das „Papier“
@@ -409,7 +394,6 @@ sich das Kostüm des Sprites, sodass er wie ein Einhorn aussieht. Dieses bekommt
 nur 30% seiner Originalgröße zugeschrieben. Im Intervall von 50-100 bewegt er
 sich um die doppelte Kantenlänge und dreht sich nach jeder Bewegung um 30° in
 den Uhrzeigersinn.
-
 
 
 ##Achte Informatikstunde                                                              31.10.2016
