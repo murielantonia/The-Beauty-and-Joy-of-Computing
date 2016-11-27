@@ -379,7 +379,7 @@ dadurch, dass wir die Größe des Sprites auf 30% reduziert hatten, reduzierte
 sich nun auch die Kantenlänge der äußeren Spirale um 30%. Deshalb war
 für uns folgende Grafik sichtbar:
 
-![Screenshot28](Bilder/Screenshot28.png "Muster vom Einhorn")
+![Screenshot29](Bilder/Screenshot29.png "Muster vom Einhorn")
 
 Doch nach Verständnis
 und Berichtigung dieser Fehler entstand schließlich folgende Grafik:
@@ -411,7 +411,7 @@ Um das ganze per Mausklick zu aktivieren starteten wir mit dem
 Schritte zeichnet legten wir mit dem „pen down“ Block fest. Den gleichen Ablauf
 programmierten wir noch einmal, diesmal aber mit 20 Wiederholungen.
 
-*Bild*
+![Screenshot32](Bilder/Screenshot32.png "Wiederholungen")
 
 Wir legten für den ersten Ablauf die
 Farbe blau fest und für den zweiten Ablauf rot. Klickt man nun die grüne Fahne
@@ -419,7 +419,7 @@ mit der Maus, zeichnet der Sprite zwei Sterne. Diese überlagern sich zwar, sind
 jedoch durch unterschiedliche Farben und Wiederholungen beide zu erkennen. So
 entsteht folgender Weihnachtsstern (als Vorbereitung der Vorweihnachtszeit):
 
-*Bild*
+![Screenshot33](Bilder/Screenshot33.png "Weihnachtsstern")
 
 Da wir in unser zweiten Informatikstunde schon lernten, wie
 man den Sprite ein Quadrat zeichnen lässt, versuchten wir diese vereinfachte
@@ -437,7 +437,7 @@ Streckenlänge fest. Der Sprite dreht sich nach diesen jeweils um 90 Grad nach
 rechts. Setzt man diesen beiden Blöcke vier Mal hintereinander, entsteht ein
 Quadrat.
 
-*Bild*
+![Screenshot34](Bilder/Screenshot34.png "Eigenes Quadrat")
 
 Die bereits genannten Schritte kann man nun auch zu einem
 neuen Block zusammenfassen. Neue Blöcke kann man beliebig benennen.
@@ -448,7 +448,7 @@ gedreht. Dies wird vereinfach durch den „repeat“ Block vier Mal wiederholt. 
 nennen unseren neuen Block „sqaure“. Es erscheint nun neben den bereits vorhandenen
 Blöcken und kann beliebig oft genutzt werden.
 
-*Bild*
+![Screenshot35](Bilder/Screenshot35.png "Block Editor Eigenes Quadrat")
 
 Natürlich können diese Blöcke wieder bearbeitet werden. Zum
 Beispiel umbenannt werden oder aber auch verändert werden.
@@ -457,7 +457,7 @@ Beispiel umbenannt werden oder aber auch verändert werden.
 
 
  
-
+Nach dem Studieren dieser Tutorials freuen wir uns nun sehr darauf, ein eigenes Projekt zu erstellen und zu programmierne;) 
  
 
  
