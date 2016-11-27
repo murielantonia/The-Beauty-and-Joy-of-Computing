@@ -325,7 +325,7 @@ Erkenntnis und dem Wissen aus den vorherigen Kapiteln konnten wir eine quadratis
 Spirale vom Sprite zeichnen lassen, die für den Viewer im Interface sichtbar
 wird. 
 
-![Screenshot25](Bilder/Screenshot25.png "For Block")
+![Screenshot26](Bilder/Screenshot26.png "For Block")
 
 Übersetzung: Beim Starten des Programmes wird dem Sprite,
 der hier als Stift dient, eine von uns ausgewählte Farbe zugeschrieben. Sobald
@@ -336,7 +336,7 @@ Vorgang wiederholt sich, bis die Länge 100 erreicht wird und eine quadratische
 Spirale sichtbar wird.  Die Zeichnung
 beginnt und endet bei den von uns definierten Längenwerten.
 
-![Screenshot26](Bilder/Screenshot26.png "Verschiedene Muster mit For Block")
+![Screenshot27](Bilder/Screenshot27.png "Verschiedene Muster mit For Block")
 
 Bei diesem Programm können wir
 jedoch nicht nur die Länge der Strecken, sondern auch den Winkel der Drehungen
@@ -344,7 +344,7 @@ festlegen. Auf dem oben zu sehenden Screenshot haben wir mit verschiedenen
 Stiftfarben, Innenwinkeln und Längenbereichen experimentiert, sodass am Ende
 ein graphisches Muster entstanden ist. 
 
-![Screenshot27](Bilder/Screenshot27.png "Veränderungen")
+![Screenshot28](Bilder/Screenshot28.png "Veränderungen")
 
 Hier sieht man, was passiert, wenn bei gleichem Winkel die
 Länge der Seitenkanten der quadratischen Spirale verändert werden. 
@@ -382,9 +382,9 @@ für uns folgende Grafik sichtbar:
 Doch nach Verständnis
 und Berichtigung dieser Fehler entstand schließlich folgende Grafik:
 
-![Screenshot29](Bilder/Screenshot29.png "Muster von der Fledermaus")
+![Screenshot30](Bilder/Screenshot30.png "Muster von der Fledermaus")
 
-![Screenshot30](Bilder/Screenshot30.png "Großes Muster vom Einhorn")
+![Screenshot31](Bilder/Screenshot31.png "Großes Muster vom Einhorn")
 
 Übersetzung: Nach Starten des Programmes wird der Sprite als
 „Stift“, dessen Farbe Türkis und Länge 3 definiert sind, auf das „Papier“
