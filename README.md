@@ -9,7 +9,10 @@
  
 
 Nachdem wir uns zu Hause einzeln
-über die unterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
+über die freundlich organisiert war. Außerdem wir die Anwendung genutzt, an
+Schulen und Universitäten in hauptsächlich den USA. Somit gehören wir, als
+Schüler, zur Zielgruppe des Tutorials, was unsere Entscheidung zusätzlich
+beeinfluunterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
 die Homepages der für uns interessanten Optionen: „Greenfoot“ und „The Beauty
 and Joy of Computing“
 
@@ -24,10 +27,7 @@ Buch mit nach Hause, um uns weiter damit auseinanderzusetzen.
 Schließlich entschieden wir uns für „Beauty
 and Joy of Computing“, da die bunten Farben der blockbasierten
 Programmierprache Snap! ansprechend und der Lehrplan (Curriculum) schüler- und
-studentenfreundlich organisiert war. Außerdem wir die Anwendung genutzt, an
-Schulen und Universitäten in hauptsächlich den USA. Somit gehören wir, als
-Schüler, zur Zielgruppe des Tutorials, was unsere Entscheidung zusätzlich
-beeinflusste. Überzeugt hat uns zudem das Argument des Programmtitels, welcher
+studentensste. Überzeugt hat uns zudem das Argument des Programmtitels, welcher
 Schönheit und Freude des Programmierens verspricht.
 
 ![Screenshot01](Bilder/Screenshot01.png "Snap!")
@@ -49,36 +49,38 @@ eingegeben. Es entstand ein Quadrat.
 
 ![Screenshot02](Bilder/Screenshot02.png "Erste Blöcke")
 
+![Screenshot03](Bilder/Screenshot03.png "Erste Zeichnungen")
+
 Nun veränderten wir
 die „move“ Zahl. Bei unserem Beispiel wurden die Quadrate (wie im folgenden
 Bild zu sehen) größer.
 
-![Screenshot03](Bilder/Screenshot03.png "Programm Quadrate")
+![Screenshot04](Bilder/Screenshot04.png "Programm Quadrate")
 
 Danach wurden zudem auch die Zahlen des „repeat“ und „turn“
 Blocks verändert.
 
-![Screenshot04](Bilder/Screenshot04.png "Repeat und Turn im Block")
+![Screenshot05](Bilder/Screenshot05.png "Repeat und Turn im Block")
 
 Dabei probierten wir einiges aus…
 
-![Screenshot05](Bilder/Screenshot05.png "Probe")
+![Screenshot06](Bilder/Screenshot06.png "Probe")
 
 Schließlich bestand unsere Aufgabe darin, ein Dreieck zu
 erstellen. Dies gelang uns durch eine Drehung von 120 Grad.
 
-![Screenshot06](Bilder/Screenshot06.png "Dreieck")
+![Screenshot07](Bilder/Screenshot07.png "Dreieck")
 
 Durch einen weiteren Block „set pen size to“ konnten wir
 dann die Dicke der erstellten Linien verstellen.
 
-![Screenshot07](Bilder/Screenshot07.png "Stiftdicke")
+![Screenshot08](Bilder/Screenshot08.png "Stiftdicke")
 
 Schließlich lernten wir, wie wir unseren Pfeil wiederfinden,
 wenn er mal aus dem Feld verschwinden sollte. Wir nutzten den „go to x:  y:“ Block dafür. Im folgenden Bild sieht man
 die Fortbewegung des Feils anhand der dicken Linien.
 
-![Screenshot08](Bilder/Screenshot08.png "Koordinaten")
+![Screenshot09](Bilder/Screenshot09.png "Koordinaten")
 
 Allgemein sind wir zufrieden mit der heutigen Stunde. Wir
 haben schon einige Schritte gelernt, die uns später beim weiteren Programmieren
@@ -111,7 +113,7 @@ vorhandenen Quadrate.
 Unsere Versuche sieht man im folgenden Bild
 zusammengefasst: 
 
-![Screenshot09](Bilder/Screenshot09.png "Quadrat versuche")
+![Screenshot10](Bilder/Screenshot10.png "Quadrat versuche")
  
 Nachdem
 wir die Aufgabe des Tutorials gemeistert hatten, haben wir noch weitere eigene Versuche
@@ -119,7 +121,7 @@ gestartet. Wir ließen den Sprite verschiedene Kreise zeichnen. Diese hatten
 verschiedene Größen, Dicken und Farben. Dazu wurden die Blocks „set pen colour to“ und
 „set pen size to“ verändert. 
 
-![Screenshot10](Bilder/Screenshot10.png "Versuche Kreis")
+![Screenshot11](Bilder/Screenshot11.png "Versuche Kreis")
 
 
 ##Vierte Informatikstunde                                                              29.09.2016
@@ -132,7 +134,7 @@ In der nächsten Lektion sollten
 wir einen „Sprite“ so programmieren, dass er der Maus folgt, wenn wir sie über
 den Bildschirm bewegen.
 
-![Screenshot11](Bilder/Screenshot11.png "Sprite folgt Maus")
+![Screenshot12](Bilder/Screenshot12.png "Sprite folgt Maus")
 
 Dazu wird ein Block eingesetzt,
 welcher dem Sprite befiehlt, den Koordinaten der Maus zu folgen. Damit dies bei
@@ -143,7 +145,7 @@ Block ausgeführt, der das Programm nur startet, wenn man die grüne Fahne
 klickt. Dieser „hat“-Block impliziert nicht, was das Programm tun soll, sondern
 welches „event“ das Programm auslöst.
 
-![Screenshot12](Bilder/Screenshot12.png "Sprite folgt Maus Programm")
+![Screenshot13](Bilder/Screenshot13.png "Sprite folgt Maus Programm")
 
 Nun wurde ein zweiter Sprite hinzugefügt, dessen Pfeilspitze
 immer in die Richtung des ersten Sprites zeigen soll. Auch dieser Programmteil
@@ -161,12 +163,12 @@ also immer in Richtung des Sprite.  So
 wird aus unserem Programm eine Art Fangspiel, das endet, sobald die beiden
 Sprites sich berühren. 
 
-![Screenshot13](Bilder/Screenshot13.png "Repeat until")
+![Screenshot14](Bilder/Screenshot14.png "Repeat until")
 
 Übersetzung: Sobald die grüne Fahne geklickt wurde, zeigt
 Sprite2 solange in Richtung des Sprite, bis beide miteinander in Berührung kommen.
 
-![Screenshot14](Bilder/Screenshot14.png "Repeat until Berührung")
+![Screenshot15](Bilder/Screenshot15.png "Repeat until Berührung")
 
 Übersetzung: Sobald sie grüne Fahne geklickt wurde, zeigt
 Sprite2 in Richtung des Sprite und bewegt sich je einen Schritt auf diesen zu,
@@ -180,7 +182,7 @@ zuvor festgelegt haben. Der Unterschied besteht darin, dass eine Sprechblase
 oder eine Denkblase erscheinen kann. Damit nicht beide Sprech- bzw. Denkblasen
 gleichzeitig erscheinen, legen wir eine Reihenfolge im Skript des Sprite2 fest.
 
-![Screenshot15](Bilder/Screenshot15.png "Gespräch zwischen Sprites")
+![Screenshot16](Bilder/Screenshot16.png "Gespräch zwischen Sprites")
 
 Übersetzung: Sobald sie grüne
 Fahne geklickt wurde, zeigt Sprite2 in Richtung des Sprite und bewegt sich je
@@ -202,7 +204,7 @@ halbe Größe des Originals.
 Auf dem Folgenden Bild ist das
 fertige Produkt zu sehen.
 
-![Screenshot16](Bilder/Screenshot16.png "Endprodukt Unterhaltung der Sprites")
+![Screenshot17](Bilder/Screenshot17.png "Endprodukt Unterhaltung der Sprites")
 
 
 ##Fünfte Informatikstunde                                                              06.10.16
@@ -215,7 +217,7 @@ eigenen Blöcken befasst. Indem wir mehrere Aktionen im Skript unter einem
 Oberbegriff zusammenfassen, abstrahieren wir das Programm und machen es
 übersichtlicher. Diese Arbeit passiert im sogennanten „Block Editor“.
 
-![Screenshot17](Bilder/Screenshot17.png "Block Editor")
+![Screenshot18](Bilder/Screenshot18.png "Block Editor")
 
 Das hier ist ein Beispiel für
 einen der Blöcke, den wir erschaffen haben. Er fasst in sich das Skript, dass
@@ -251,7 +253,7 @@ Block erschaffen, der in Aktion ein Quadrat mit vorbestimmter Seitenlänge
 zeichnen kann. Viermal hintereinander bewegt er den Sprite  um 50 Schritte geradeaus, und dann um 90° im
 Uhrzeigersinn drehen, sodass ein Viereck entsteht. 
 
-![Screenshot18](Bilder/Screenshot18.png "Quadrat")
+![Screenshot19](Bilder/Screenshot19.png "Quadrat")
 
 Auf diesem Screenshot sieht man, wie das Ergebnis der Blöcke
 „draw square“ und „draw big square“ aussieht, nachdem wir das jeweilige Skript
@@ -264,12 +266,12 @@ Kantenlänge 50 („triangle“) und eines mit der Kantenlänge 100 („big tria
 Anschließend haben wir noch Polygene
 erstellt.
 
-![Screenshot19](Bilder/Screenshot19.png "Polygene")
+![Screenshot20](Bilder/Screenshot20.png "Polygene")
 
 Nach den ersten Erfolgen veränderten
 wir die Farbe und Stiftdicke. 
 
-![Screenshot20](Bilder/Screenshot20.png "Veränderte Stiftdicke und Farbe")
+![Screenshot21](Bilder/Screenshot21.png "Veränderte Stiftdicke und Farbe")
 
 Wir erstellten ein lila Polygen, mit der Stiftdicke fünf.
 Dieses hatte vier Seiten, es entstand also ein Viereck. Das zweite Polygen
@@ -288,18 +290,18 @@ sollte ein Programm sein, das „square“ und „triangle“ so kombiniert, das
 Haus entsteht. Hier ist unser Vorgehen visuell dargestellt. Es handelt sich um
 einen Screenshot des Block Editors. 
 
-![Screenshot21](Bilder/Screenshot21.png "Block Editor House")
+![Screenshot22](Bilder/Screenshot22.png "Block Editor House")
 
 Der Sprite führt zunächst die Aktion „draw square“ und anschließend
 die Aktion „draw triangle“ aus, sodass am Ende ein Abbild eines Hauses
 entsteht, wie unten gezeigt. 
 
-![Screenshot22](Bilder/Screenshot22.png "House")
+![Screenshot23](Bilder/Screenshot23.png "House")
 
 Wir verbesserten die Häuser
 noch durch unterschiedliche Farben.
 
-![Screenshot23](Bilder/Screenshot23.png "Häuser in unterschiedlichen Farben")
+![Screenshot24](Bilder/Screenshot24.png "Häuser in unterschiedlichen Farben")
 
 Nun wollten wir mehrere dieser
 Häuser aneinanderreihen, und erstellten auch dafür einen eigenen Block. Damit
@@ -311,7 +313,7 @@ fügten wir einen Maximalwert der X-Koordinate hinzu. In diesem Fall sollte das
 Ausführen des Skriptes enden, sobald X einen Wert von über 200 annimmt. So sah
 unser Endergebnis aus:
 
-![Screenshot24](Bilder/Screenshot24.png "Häuserreihe")
+![Screenshot25](Bilder/Screenshot25.png "Häuserreihe")
 
 
 ##Siebte Informatikstunde                                                             13.10.2016
