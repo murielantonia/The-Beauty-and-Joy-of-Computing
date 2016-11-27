@@ -327,7 +327,7 @@ unser Endergebnis aus:
 
 
 
-##Siebte Informatikstunde                                                                                 13.10.2016
+##Siebte Informatikstunde                                                             13.10.2016
 
 ###Unit 1 Lab 3: Building Your Own Blocks                      
 
@@ -412,7 +412,7 @@ den Uhrzeigersinn.
 
 
 
-##Achte Informatikstunde                                                                                  31.10.2016
+##Achte Informatikstunde                                                              31.10.2016
 
 ###Eigener Versuch etwas zu programmieren 
 
