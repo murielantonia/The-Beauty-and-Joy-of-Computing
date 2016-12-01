@@ -416,7 +416,7 @@ den Uhrzeigersinn.
 
 ##Achte Informatikstunde<a name="acht"></a>                                                              31.10.2016
 
-###Eigener Versuch etwas zu programmieren 
+###Eigener Versuch etwas zu Programmieren 
 
 Nach dem schauen verschiedener Youtube Tutorials versuchten
 wir in dieser Stunde etwas Eigenes zu programmieren. 
@@ -476,7 +476,11 @@ Beispiel umbenannt werden oder aber auch verändert werden.
 *Nach dem Studieren dieser Tutorials freuen wir uns nun sehr darauf, ein eigenes Projekt zu erstellen und zu programmierne;)*
  
 
- 
+ ##Neunte Informatikstunde                                                                                28.11.2016
+ ###Unit3: Lists: Programming Lab1: Introduction to Lists
+ 
+*Nach der Abgabe unseres Tic-Tac-Toe Projektes vielen uns einige Fehler im Programm auf.Mithilfe von Listen wollen wir nun versuchen, diese zu berichtigen! Dazu nutzen wir die Tutorials von Snap! weiter.*
+
 
 
 
