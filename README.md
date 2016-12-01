@@ -485,7 +485,7 @@ Beispiel umbenannt werden oder aber auch verändert werden.
 
 Zunächst haben wir uns das Projekt des Tutorials heruntergeladen. Somit war das Spielfeld schon vorgegeben. Wir mussten nun eine Shopping List erstellen:
 
-![Screenshot36](Bilder/Screenshot36.PNG "Shopping List")
+![Screenshot36](Bilder/Sreenshot36.PNG "Shopping List")
 
 Übersetzung: In den "set..." Block wird die Shopping List eingefügt. Die Eingabe wird dann dank des "list" Blocks zu unserer Liste hinzugefügt. Der Add-Item Button auf dem Spielfeld fragt wegen des "ask" Blocks: "What would you like to shop?". Für die Antwort erscheint auf dem Spielfeld eine Zeile für den Eintrag des geshoppten. Durch klicken des Hakens wird der Artikel der Shopping List hinzugefügt. Dafür zuständig ist der "add" Block, welcher die Antwort erhält und der Liste ("shoppinglist" Block) hinzufügt.
 
