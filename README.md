@@ -496,8 +496,17 @@ Nachdem man nun der Shopping List erfolgreich Artikel hinzufügen kann, muss man
 Üersetzung: Durch den "set...to..." Block wird die Shopping List (aufgrund der Einstellung "shoppinglist" in der Markierung) wieder auf Null gesetzt. Es werden also alle Artikel gelöscht.
 
 
+##Zehnte Informatikstunde                                                                                     01.12.2016
 
+###Unit3: Lab1: Introduction to Lists
 
+Take it further
+
+Nun haben wir versucht, bei einer Wiederholung der Shoppingartikel, eine neue Frage des Add-Item Buttons zu prgrammieren. Dabei traten zunächst einige Komplikationen auf. Schließlich fanden wir heraus, dass der "list" Block durch eine "shoppinglist" Variable ersetzt werden muss, damit das Vorhaben funktioniert:
+
+![Screenshot38](Bilder/Screenshot38.png "Erweiterung der Shoppping List")
+
+Übersezung: Wie schon vorher eingestellt, muss der Add-Item Button geklickt werden, um einen Artikel der Shopping List hinzuzufügen. Anschließend wird die Variable "Shopping List" für die Liste im "set...to..." Block eingesetzt. Der Spieler wird gefragt ("ask"): "What would you like to shop?". Wenn ("if") die Liste die Antwort bereits enthält, wird nach einem anderen Artikel gefragt ("What else would you like to shop?"). Ansonsten ("else") wird der gewünschte Artikel der Liste hinzugefügt.
  
 
  
