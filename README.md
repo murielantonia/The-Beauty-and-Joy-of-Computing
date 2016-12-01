@@ -16,6 +16,7 @@
 
 [Achte Informatikstunde](#acht)
 
+[Neunte Informatikstunde](#neun)
 
 
 ##Erste Informatikstunde<a name="eins"></a>                                                              15.09.2016
@@ -476,12 +477,13 @@ Beispiel umbenannt werden oder aber auch verändert werden.
 *Nach dem Studieren dieser Tutorials freuen wir uns nun sehr darauf, ein eigenes Projekt zu erstellen und zu programmierne;)*
  
 
- ##Neunte Informatikstunde<a name="neun"></a>                                                                                28.11.2016
+ ##Neunte Informatikstunde<a name="neun"></a>                                                                     28.11.2016
+ 
  ###Unit3: Lists: Programming Lab1: Introduction to Lists
  
 *Nach der Abgabe unseres Tic-Tac-Toe Projektes vielen uns einige Fehler im Programm auf.Mithilfe von Listen wollen wir nun versuchen, diese zu berichtigen! Dazu nutzen wir die Tutorials von Snap! weiter.*
 
-Zunächst haben wir uns das projekt des Tutorials heruntergeladen. Somit war das Spielfeld schon vorgegeben. Wir mussten nun eine Shopping List erstellen:
+Zunächst haben wir uns das Projekt des Tutorials heruntergeladen. Somit war das Spielfeld schon vorgegeben. Wir mussten nun eine Shopping List erstellen:
 
 ![Screenshot36](Bilder/Screenshot36.PNG "Shopping List")
 
