@@ -481,19 +481,19 @@ Beispiel umbenannt werden oder aber auch verändert werden.
  
 ###Unit3: Lists: Programming Lab1: Introduction to Lists
  
-*Nach der Abgabe unseres Tic-Tac-Toe Projektes vielen uns einige Fehler im Programm auf.Mithilfe von Listen wollen wir nun versuchen, diese zu berichtigen! Dazu nutzen wir die Tutorials von Snap! weiter.*
+*Nach der Abgabe unseres Tic-Tac-Toe Projektes fielen uns einige Fehler im Programm auf. Mithilfe von Listen wollen wir nun versuchen, diese zu berichtigen! Dazu nutzen wir die Tutorials von Snap! weiter.*
 
 Zunächst haben wir uns das Projekt des Tutorials heruntergeladen. Somit war das Spielfeld schon vorgegeben. Wir mussten nun eine Shopping List erstellen:
 
 ![Screenshot36](Bilder/Sreenshot36.PNG "Shopping List")
 
-Übersetzung: In den "set..." Block wird die Shopping List eingefügt. Die Eingabe wird dann dank des "list" Blocks zu unserer Liste hinzugefügt. Der Add-Item Button auf dem Spielfeld fragt wegen des "ask" Blocks: "What would you like to shop?". Für die Antwort erscheint auf dem Spielfeld eine Zeile für den Eintrag des geshoppten. Durch klicken des Hakens wird der Artikel der Shopping List hinzugefügt. Dafür zuständig ist der "add" Block, welcher die Antwort erhält und der Liste ("shoppinglist" Block) hinzufügt.
+Übersetzung: In den "set...to..." Block wird die Shopping List eingefügt. Die Eingabe wird dann dank des "list" Blocks zu unserer Liste hinzugefügt. Der Add-Item Button auf dem Spielfeld fragt, wegen des "ask" Blocks, "What would you like to shop?". Für die Antwort erscheint auf dem Spielfeld eine Zeile für den Eintrag des Geshoppten. Durch Klicken des Hakens wird der Artikel der Shopping List hinzugefügt. Dafür zuständig ist der "add" Block, welcher die Antwort erhält und der Liste ("shoppinglist" Block) hinzufügt.
 
-Nachdem man nun der Shopping list erfolgreich Artikel hinzufügen kann, muss man diese auch wieder löschen können. Dafür programmierten wir die Clean List:
+Nachdem man nun der Shopping List erfolgreich Artikel hinzufügen kann, muss man diese auch wieder löschen können. Dafür programmierten wir die Clear List:
 
 ![Screenshot37](Bilder/Screenshot37.PNG "Programm Clear List")
 
-Üersetzung: Durch den "set..." Block wird die Shopping List (aufgrund der Einstellung "shoppinglist" in der Markierung) wieder auf null gesetzt. Es werden also alle Artikel gelöscht.
+Üersetzung: Durch den "set...to..." Block wird die Shopping List (aufgrund der Einstellung "shoppinglist" in der Markierung) wieder auf Null gesetzt. Es werden also alle Artikel gelöscht.
 
 
 
