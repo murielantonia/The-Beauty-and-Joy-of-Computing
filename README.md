@@ -511,7 +511,17 @@ Nun haben wir versucht, bei einer Wiederholung der Shoppingartikel, eine neue Fr
 Übersezung: Wie schon vorher eingestellt, muss der Add-Item Button geklickt werden, um einen Artikel der Shopping List hinzuzufügen. Anschließend wird die Variable "Shopping List" für die Liste im "set...to..." Block eingesetzt. Der Spieler wird gefragt ("ask"): "What would you like to shop?". Wenn ("if") die Liste die Antwort bereits enthält, wird nach einem anderen Artikel gefragt ("What else would you like to shop?"). Ansonsten ("else") wird der gewünschte Artikel der Liste hinzugefügt.
  
 
- 
+ ##Elfte Informatikstunde                                                                                            05.12.2016
+ 
+ ###Unit 3: Lab1: Introduction to Lists, Page 2
+ 
+ Heute haben wir uns weiter mit den Listen beschäftigt. Dazu mussten wir zunächst ein Snap!Project laden und diskutieren. 
+ 
+ ![Screenshot39](Bilder/Screenshot39.PNG "Brazil List")
+ 
+ Danach wurden wir Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
+ 
+ 
 
 
  
