@@ -517,11 +517,16 @@ Nun haben wir versucht, bei einer Wiederholung der Shoppingartikel, eine neue Fr
  
 ###Unit 3: Lab1: Introduction to Lists, Page 2
  
- Heute haben wir uns weiter mit den Listen beschäftigt. Dazu mussten wir zunächst ein Snap!Project laden und diskutieren. 
+Heute haben wir uns weiter mit den Listen beschäftigt. Dazu mussten wir zunächst ein Snap!Project laden und über die Funktion von drei Reportern diskutieren. 
  
- ![Screenshot39](Bilder/Screenshot39.PNG "Brazil List")
+![Screenshot39](Bilder/Screenshot39.PNG "Brazil List")
  
- Danach wurden wir Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
+Der Reporter "length of..." misst die Länge der Staatenliste und subtrahiert eins. In der Liste befinden sich sechs Staaten, Russland, Haiti, Japan, Brasilien, Ruanda und Vietnam, deshalb gibt der Reporter "5" an.
+Der Reporter "all but first of..." gibt alle Staaten, bis auf den ersten (Russland) wieder.
+Der Reporter "item one of..." gibt den ersten Staat (Russland) an.
+Über den "...in front of..."-Reporter kann man einen zusätzlichen Staat an erster, beziehungsweise nullter, Stelle der Liste einfügen.
+ 
+Danach wurden wir von Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
  
  
 
