@@ -20,6 +20,8 @@
 
 [Zehnte Informatikstunde](#zehn)
 
+[Elfte Informatikstunde](#elf)
+
 
 ##Erste Informatikstunde<a name="eins"></a>                                                              15.09.2016
 
@@ -511,7 +513,7 @@ Nun haben wir versucht, bei einer Wiederholung der Shoppingartikel, eine neue Fr
 Übersezung: Wie schon vorher eingestellt, muss der Add-Item Button geklickt werden, um einen Artikel der Shopping List hinzuzufügen. Anschließend wird die Variable "Shopping List" für die Liste im "set...to..." Block eingesetzt. Der Spieler wird gefragt ("ask"): "What would you like to shop?". Wenn ("if") die Liste die Antwort bereits enthält, wird nach einem anderen Artikel gefragt ("What else would you like to shop?"). Ansonsten ("else") wird der gewünschte Artikel der Liste hinzugefügt.
  
 
- ##Elfte Informatikstunde                                                                                            05.12.2016
+ ##Elfte Informatikstunde<a name="elf"></a>                                                                              05.12.2016
  
  ###Unit 3: Lab1: Introduction to Lists, Page 2
  
