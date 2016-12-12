@@ -22,6 +22,8 @@
 
 [Elfte Informatikstunde](#elf)
 
+[Zwölfte Informatikstunde](#zwölf)
+
 
 ##Erste Informatikstunde<a name="eins"></a>                                                              15.09.2016
 
@@ -529,6 +531,35 @@ Der Reporter "item one of..." gibt den ersten Staat (Russland) an.
 Danach wurden wir von Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
  
  
+##Zwölfte Informatikstunde <a name="zwölf"></a>                                                                         12.12.2016
+
+###Unit 3: Lab 1: Introduction to Lists, Page 2
+
+Heute haben wir uns weiter mit der "Staatenliste" auseinander gesetzt. Dabei experimentierten wir mit dem Reporter "item...of...". Man kann mit diesem Reporter eine bestimmte Stelle der Liste abrufen, zum Beispiel die erste und letzte Stelle, eine zufällige oder festgelegte (1,2,3,...) Stelle. 
+Zum Ausprobieren dieser Beispiel bekamen wir einige Aufgaben:
+
+![Screenshot40](Bilder/Screenshot40.PNG "Sprache in Brasilien")
+
+![Screenshot41](Bilder/Screenshot41.PNG "Name des jetzigen Präsidenten")
+
+![Screenshot42](Bilder/Screenshot42.PNG "Einwohnerzahl 2015")
+
+![Screenshot43](Bilder/Screenshot43.PNG "Währung")
+
+Wie man sieht, werden die Programme komplizierter, je nachdem welche Stelle in der Liste man abrufen will! Es gibt nämlich auch Listen in Listen in Listen, welche dann einzeln aufgerufen werden müssen.
+
+Danach haben wir den Unterschied zwischen Reporter und Liste genauer betrachtet:
+
+![Screenshot44](Bilder/Screenshot44.PNG "Haiti Liste")
+
+![Screenshot45](Bilder/Screenshot45.PNG "Reporter Haiti")
+
+Der erste Block zeigt die gesamte Liste, die hier nur Haiti enthält. Der zweite Block hingegen zeigt als Reporter Haiti als Teil einer längeren Staatenliste (Stelle 2). Diese Liste könnte ohne Reporter auch als gesamte Liste abgerufen werden, würde dann aber mehr Staaten, als Haiti, anzeigen.
+
+
+
+
+
 
 
  
