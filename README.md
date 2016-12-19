@@ -24,6 +24,8 @@
 
 [Zwölfte Informatikstunde](#zwölf)
 
+[Dreizehnte Informatikstunde](#dreizehn)
+
 
 ##Erste Informatikstunde<a name="eins"></a>                                                              15.09.2016
 
@@ -534,7 +536,7 @@ Danach wurden wir von Thao Mi unterbrochen und erklärten ihr ausführlich "The 
 
 ![Screenshot47](Bilder/Screenshot47.png "Katzen Selfie")
 
-![Screenshot48](Bilder/Screenshot48.png "Selfie")
+![Screenshot48](Bilder/Screenshot48.png "Hunde Selfie")
 
 
 ##Zwölfte Informatikstunde <a name="zwölf"></a>                                                                         12.12.2016
@@ -562,6 +564,16 @@ Danach haben wir den Unterschied zwischen Reporter und Liste genauer betrachtet:
 
 Der erste Block zeigt die gesamte Liste, die hier nur Haiti enthält. Der zweite Block hingegen zeigt als Reporter Haiti als Teil einer längeren Staatenliste (Stelle 2). Diese Liste könnte ohne Reporter auch als gesamte Liste abgerufen werden, würde dann aber mehr Staaten, als Haiti, anzeigen.
 
+
+##Dreizehnte Informatikstunde <a name="dreizehn"></a>                                                                 19.12.2016
+
+###Die Weihnachtsvorfreude breitet sich aus - es ist ein "Geschenk" für die Menschheit.
+
+Heute haben wir uns mit Geschenken beschäftigt, um uns auf die heiß ersehnten und (hoffentlich) kalt beschneiten  Weihnachtsferien einzustimmen. Um das WeihnachtlicheFlair einzufangen, nutzten wir für unser Verständnis für den Umfang und die Farbe eines Geschenkes direkt vom Nordpol. Dazu brauchten wir noch Grundwissen über die Grundformen und geometrisches Zeichnen.
+
+![Screenshot49](Bilder/Screenshot49.png "Programm Geschenk")
+
+![Screenshot50](Bilder/Screenshot50.png "Anfänge für Geschenk")
 
 
 
