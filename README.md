@@ -567,7 +567,7 @@ Der erste Block zeigt die gesamte Liste, die hier nur Haiti enthält. Der zweite
 
 ##Dreizehnte Informatikstunde <a name="dreizehn"></a>                                                                 19.12.2016
 
-###Die Weihnachtsvorfreude breitet sich aus - es ist ein "Geschenk" für die Menschheit.
+###Die Weihnachtsvorfreude breitet sich aus - Ein "Geschenk" für die Menschheit.
 
 Heute haben wir uns mit Geschenken beschäftigt, um uns auf die heiß ersehnten und (hoffentlich) kalt beschneiten  Weihnachtsferien einzustimmen. Um das WeihnachtlicheFlair einzufangen, nutzten wir für unser Verständnis für den Umfang und die Farbe eines Geschenkes direkt vom Nordpol. Dazu brauchten wir noch Grundwissen über die Grundformen und geometrisches Zeichnen.
 
