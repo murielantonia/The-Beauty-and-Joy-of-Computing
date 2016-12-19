@@ -529,8 +529,14 @@ Der Reporter "item one of..." gibt den ersten Staat (Russland) an.
 Über den "...in front of..."-Reporter kann man einen zusätzlichen Staat an erster, beziehungsweise nullter, Stelle der Liste einfügen.
  
 Danach wurden wir von Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
- 
- 
+
+![Screenshot46](Bilder/Screenshot46.PNG "Bei der Arbeit")
+
+![Screenshot47](Bilder/Screenshot47.PNG "Katzen Selfie")
+
+![Screenshot48](Bilder/Screenshot48.PNG "Selfie")
+
+
 ##Zwölfte Informatikstunde <a name="zwölf"></a>                                                                         12.12.2016
 
 ###Unit 3: Lab 1: Introduction to Lists, Page 2
