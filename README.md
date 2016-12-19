@@ -565,7 +565,7 @@ Danach haben wir den Unterschied zwischen Reporter und Liste genauer betrachtet:
 Der erste Block zeigt die gesamte Liste, die hier nur Haiti enthält. Der zweite Block hingegen zeigt als Reporter Haiti als Teil einer längeren Staatenliste (Stelle 2). Diese Liste könnte ohne Reporter auch als gesamte Liste abgerufen werden, würde dann aber mehr Staaten, als Haiti, anzeigen.
 
 
-##Dreizehnte Informatikstunde <a name="dreizehn"></a>                                                                 19.12.2016
+##Dreizehnte Informatikstunde <a name="dreizehn"></a>                                                                19.12.2016
 
 ###Die Weihnachtsvorfreude breitet sich aus - Ein "Geschenk" für die Menschheit.
 
