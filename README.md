@@ -530,11 +530,11 @@ Der Reporter "item one of..." gibt den ersten Staat (Russland) an.
  
 Danach wurden wir von Thao Mi unterbrochen und erklärten ihr ausführlich "The Beauty and Joy of Computing". Sie war sehr begeistert und hörte gespannt zu. Den neuen Input musste sie sofort auf Snapchat teilen: 
 
-![Screenshot46](Bilder/Screenshot46.PNG "Bei der Arbeit")
+![Screenshot46](Bilder/Screenshot46.png "Bei der Arbeit")
 
-![Screenshot47](Bilder/Screenshot47.PNG "Katzen Selfie")
+![Screenshot47](Bilder/Screenshot47.png "Katzen Selfie")
 
-![Screenshot48](Bilder/Screenshot48.PNG "Selfie")
+![Screenshot48](Bilder/Screenshot48.png "Selfie")
 
 
 ##Zwölfte Informatikstunde <a name="zwölf"></a>                                                                         12.12.2016
