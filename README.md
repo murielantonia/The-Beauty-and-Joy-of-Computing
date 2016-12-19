@@ -575,10 +575,15 @@ Heute haben wir uns mit Geschenken beschäftigt, um uns auf die heiß ersehnten 
 
 ![Screenshot50](Bilder/Screenshot50.PNG "Anfänge für Geschenk")
 
+Nachdem das Geschenk nun verpackt war, kümmerten wir uns darum, dass es auch ordentlich zugebunden ist. Da dieses Programm das offizielle Programm für den Weihnachtsmann ist, müssen die Geschenke flugfest sein!
+
 ![Screenshot51](Bilder/Screenshot51.PNG "Programm Geschenkband")
 
 ![Screenshot52](Bilder/Screenshot52.PNG "Anfänge für Geschenkband")
 
+Der Inhalt des Geschenkes bleibt geheim, damit sich jemand an Heilig Abend darüber freuen kann...
+
+Frohe Weihnachten! Hohoho!
 
 
 
