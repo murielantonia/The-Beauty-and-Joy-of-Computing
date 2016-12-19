@@ -571,9 +571,9 @@ Der erste Block zeigt die gesamte Liste, die hier nur Haiti enthält. Der zweite
 
 Heute haben wir uns mit Geschenken beschäftigt, um uns auf die heiß ersehnten und (hoffentlich) kalt beschneiten  Weihnachtsferien einzustimmen. Um das WeihnachtlicheFlair einzufangen, nutzten wir für unser Verständnis für den Umfang und die Farbe eines Geschenkes direkt vom Nordpol. Dazu brauchten wir noch Grundwissen über die Grundformen und geometrisches Zeichnen.
 
-![Screenshot49](Bilder/Screenshot49.png "Programm Geschenk")
+![Screenshot49](Bilder/Screenshot49.PNG "Programm Geschenk")
 
-![Screenshot50](Bilder/Screenshot50.png "Anfänge für Geschenk")
+![Screenshot50](Bilder/Screenshot50.PNG "Anfänge für Geschenk")
 
 
 
