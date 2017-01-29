@@ -33,7 +33,7 @@
 
  
 
-Nachdem wir uns zu Hause einzeln über unterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
+Nachdem wir uns zu Hause einzeln über die unterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
 die Homepages der für uns interessanten Optionen: „Greenfoot“ und „The Beauty
 and Joy of Computing“
 
