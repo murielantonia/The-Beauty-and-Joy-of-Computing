@@ -33,11 +33,7 @@
 
  
 
-Nachdem wir uns zu Hause einzeln
-über die freundlich organisiert war. Außerdem wir die Anwendung genutzt, an
-Schulen und Universitäten in hauptsächlich den USA. Somit gehören wir, als
-Schüler, zur Zielgruppe des Tutorials, was unsere Entscheidung zusätzlich
-beeinfluunterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
+Nachdem wir uns zu Hause einzeln über unterschiedlichen Programme informiert hatten, besuchten wir gemeinsam
 die Homepages der für uns interessanten Optionen: „Greenfoot“ und „The Beauty
 and Joy of Computing“
 
